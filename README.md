@@ -5,6 +5,10 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🔭 I love watching the moon throught lenses
 
+
+  ![fbientrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=fbientrigo&show_icons=true&theme=synthwave)
+
+
 <br />
 
 ---
@@ -23,11 +27,6 @@
 
 ---
 
-<details>
-
-  ![fbientrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=fbientrigo&show_icons=true&theme=synthwave)
-
-</details>
 [website]: https://www.youtube.com/c/floresenhalloween
 [youtube]: https://youtu.be/mlWHKuN47YQ
 [instagram]: https://www.instagram.com/floresenhalloween/
