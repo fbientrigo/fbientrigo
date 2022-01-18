@@ -8,6 +8,13 @@
 
   ![fbientrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=fbientrigo&show_icons=true&theme=synthwave)
 
+<a href="https://www.youtube.com/c/floresenhalloween">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fbientrigo&show_icons=true&theme=synthwave" />
+
+</a>
+<a href="https://www.linkedin.com/in/fabian-trigo-769245197/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fbientrigo&repo=convoychat" />
+</a>
 
 <br />
 
