@@ -1,19 +1,15 @@
 ## I'm a Dog Father, Student, Developer, Writer, YouTuber and Teacher!!
 - 🥅 2022 Goals: Stick to my habits system
-- ⚡ Power: Ideas makes me feel powerful
 - 🌱 I’m currently learning Physics, Statistics and Data Analysis 
 - 👯 I’m looking to collaborate with other content creators
-- 🔭 I love watching the moon throught lenses
-
-
-  ![fbientrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=fbientrigo&show_icons=true&theme=synthwave)
 
 <a href="https://www.youtube.com/c/floresenhalloween">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fbientrigo&show_icons=true&theme=synthwave" />
 
 </a>
+<br/>
 <a href="https://www.linkedin.com/in/fabian-trigo-769245197/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fbientrigo&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fbientrigo&repo=ReactComercio" />
 </a>
 
 <br />
