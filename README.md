@@ -25,8 +25,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="fbientrigo's Gitub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  ![fbientrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=fbientrigo&show_icons=true&theme=synthwave)
 
 </details>
 [website]: https://www.youtube.com/c/floresenhalloween
