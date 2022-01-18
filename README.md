@@ -26,7 +26,11 @@
 ### 📺 Ultimos videos de YouTube
 
 <!-- YOUTUBE:START -->
-
+- [Decora Tarjetas Anki en menos de 60 segundos](https://www.youtube.com/watch?v=R8LQPpWlW_4)
+- [800 cartas de Anki Cálculo, Física y Programación - Repetición Espaciada para Fisica y Matematicas](https://www.youtube.com/watch?v=mlWHKuN47YQ)
+- [Campo Electrico de un Plano Infinito Cargado &lpar;Pizarra Virtual/Voiceover&rpar;](https://www.youtube.com/watch?v=DcYFQ6EiJ5M)
+- [Campo Electrico de un Anillo &lpar;usando el Potencial&rpar;](https://www.youtube.com/watch?v=hzyl9EE7asQ)
+- [Scattering de Rutherford - El parametro de Imacto y el Angulo de Scattering - cap 1](https://www.youtube.com/watch?v=Vp9R_4LZQM4)
 <!-- YOUTUBE:END -->
 
 ➡️ [mas videos...](https://www.youtube.com/c/floresenhalloween)
