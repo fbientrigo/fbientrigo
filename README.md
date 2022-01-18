@@ -5,12 +5,11 @@
 
 <a href="https://www.youtube.com/c/floresenhalloween">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fbientrigo&show_icons=true&theme=synthwave" />
+</a>
 
-</a>
 <br/>
-<a href="https://www.linkedin.com/in/fabian-trigo-769245197/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fbientrigo&repo=ReactComercio" />
-</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fbientrigo)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
