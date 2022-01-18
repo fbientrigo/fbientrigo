@@ -9,7 +9,6 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fbientrigo)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
@@ -28,6 +27,11 @@
 ➡️ [mas videos...](https://www.youtube.com/c/floresenhalloween)
 
 ---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fbientrigo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 
 [website]: https://www.youtube.com/c/floresenhalloween
 [youtube]: https://youtu.be/mlWHKuN47YQ
