@@ -35,6 +35,8 @@
 
 ➡️ [mas videos...](https://www.youtube.com/c/floresenhalloween)
 
+---
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
@@ -43,6 +45,8 @@
 <!--END_SECTION:activity-->
 
 </details>
+
+---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
