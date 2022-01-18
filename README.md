@@ -24,7 +24,7 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+
   ![fbientrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=fbientrigo&show_icons=true&theme=synthwave)
 
 </details>
