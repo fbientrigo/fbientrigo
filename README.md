@@ -1,6 +1,6 @@
-## I'm a Dog Father, Student, Developer, Writer, YouTuber and Teacher!!
-- 🥅 2022 Goals: Stick to my habits system
-- 🌱 I’m currently learning Physics, Statistics and Data Analysis 
+## I'm a Student, Developer, Writer, YouTuber and Teacher!!
+- 🥅 2023 Goals: Graduate form Physics
+- 🌱 Currently learning Physics, Statistics and Data Analysis 
 - 👯 I’m looking to collaborate with other content creators
 
 <a href="https://www.youtube.com/c/floresenhalloween">
