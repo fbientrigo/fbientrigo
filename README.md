@@ -9,8 +9,16 @@
 
 <br/>
 
-
 <br />
+
+---
+
+### Mis repositorios favoritos
+En los que he escrito he conseguido mejorar mucho la documentación, actualmente estoy poniendole mucho empeño a estos:
+
+[Programación Paralela](https://github.com/fbientrigo/parallel_progamming_2023_C)
+[Tarjetas de estudio Física](https://github.com/fbientrigo/estudia-con-anki-fisica)
+[General Programming Learning](https://github.com/fbientrigo/learningprogamation)
 
 ---
 
