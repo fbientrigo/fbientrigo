@@ -1,7 +1,4 @@
-## I'm a Student, Developer, Writer, YouTuber and Teacher!!
-- 🥅 2023 Goals: Graduate form Physics
-- 🌱 Currently learning Physics, Statistics and Data Analysis 
-- 👯 I’m looking to collaborate with other content creators
+## I'm a BSc in Physics, Developer, Writer, YouTuber and Teacher!!
 
 <a href="https://www.youtube.com/c/floresenhalloween">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fbientrigo&show_icons=true&theme=synthwave" />
